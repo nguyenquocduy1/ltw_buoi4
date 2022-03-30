@@ -1,0 +1,63 @@
+*{
+    font-family: Arial;
+    color: white;
+}
+
+th{
+    font-size: 11pt;
+    padding: 16pt;
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 20px;
+    border-width: 0;
+    border:transparent;
+    background-image: linear-gradient(to bottom right, #1e2022,  #c03496);
+
+    padding: 20pt;
+
+}
+
+td{
+    padding: 10pt 20pt;
+    font-size: 14pt;
+    
+
+}
+
+
+input{
+    padding: 10pt;
+    width: 250pt;
+    font-size: 13pt;
+
+    border-color: white;
+    background-color: transparent;
+}
+
+button{
+    border-radius: 10px;
+    border-color: white;
+    background-color: transparent;
+    width: 75pt;
+    height: 35pt;
+
+    font-weight: bold;
+    font-size: 20pt;
+
+    margin: 10pt;
+}
+
+select{
+    width: 35p0x;
+    height: 55px;
+
+    padding: 10pt;
+
+    background: transparent;
+    
+    
+
+
+}

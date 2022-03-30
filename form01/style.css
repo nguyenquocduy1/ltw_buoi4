@@ -1,0 +1,42 @@
+*{
+    font-family: Tahoma;
+}
+
+th{
+    font-size: 20pt;
+    padding: 10pt;
+}
+
+table{
+    border-collapse: collapse;
+    border-radius: 10px;
+    border-style: dashed;
+    border-width: 2pt;
+}
+
+td{
+    padding: 5pt;
+    font-size: 15pt;
+}
+
+
+input{
+    padding: 10pt;
+    width: 250pt;
+    font-size: 13pt;
+
+    border-color: rgb(207, 49, 154);
+    border-style: dashed;
+    background-color: cornflowerblue;
+}
+
+button{
+    border-radius: 10px;
+    border-color: rgb(167, 135, 88);
+    background-color: aquamarine;
+    width: 80pt;
+    height: 35pt;
+
+    font-weight: bold;
+    font-size: 20pt;
+}
